@@ -1,2 +1,4 @@
 # JavaScript
-JS learning phase code repo
+JS beginners guide.
+
+
